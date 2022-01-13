@@ -1,1 +1,1 @@
-Please run sure you run the codes in Jupyter Notebooks
+Please make sure you run the codes in Jupyter Notebooks
